@@ -1,0 +1,20 @@
+{
+  "name": "contact-reactapp",
+  "version": "1.0.0",
+  "description": "This is my contact app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "javascript",
+    "github"
+  ],
+  "author": "Ahamedunnisa Shaik",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "parcel": "^2.9.3"
+  }
+}
